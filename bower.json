@@ -11,15 +11,11 @@
     "node_modules",
     "test.html"
   ],
-  "keywords": [
-    "caret"
-  ],
-  "authors": [
-    {
-      "name": "Gideon Sireling",
-      "homepage": "http://www.accursoft.com/gideon-sireling.html"
-    }
-  ],
+  "keywords": ["caret"],
+  "authors": [{
+    "name": "Gideon Sireling",
+    "homepage": "https://www.linkedin.com/in/gideonsireling"
+  }],
   "homepage": "https://bitbucket.org/accursoft/caret",
   "dependencies": {
     "jquery": ">=1.3"
